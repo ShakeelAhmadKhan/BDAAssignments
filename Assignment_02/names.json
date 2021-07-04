@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "person_1": {
+      "Interests": [
+        "football,cricket"
+      ],
+      "Year": 1998,
+      "age": 22,
+      "amount_deposited": 50000,
+      "name": "Mr. Abdul Rafay"
+    },
+    "person_2": {
+      "Interests": [
+        "baseball,cricket"
+      ],
+      "Year": 1997,
+      "age": 23,
+      "amount_deposited": 51000,
+      "name": "Ms. Nancy James"
+    }
+  },
+  "current_Date": "04-Jul-2021"
+}
